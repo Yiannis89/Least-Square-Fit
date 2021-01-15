@@ -13,8 +13,8 @@ The problem is stated as follows :
  Set up and solve the system of linear equations:
  (Each SUM is for i=1 thru 6 per table above, note symmetry)
  
- | SUM(X1*X1)  SUM(X1*X2)  SUM(X1*X3) |   | a |   | SUM(X1*Y) |
+ | SUM(X1*X1)  SUM(X1*X2)  SUM(X1*X3) |    | a |   | SUM(X1*Y) |
  
  | SUM(X2*X1)  SUM(X2*X2)  SUM(X2*X3) | x | b | = | SUM(X2*Y) |
  
- | SUM(X3*X1)  SUM(X3*X2)  SUM(X3*X3) |   | c |   | SUM(X3*Y) |
+ | SUM(X3*X1)  SUM(X3*X2)  SUM(X3*X3) |    | c |   | SUM(X3*Y) |
