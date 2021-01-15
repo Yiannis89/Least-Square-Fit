@@ -7,3 +7,4 @@ The problem is stated as follows :
   and such that the sum of (Y_actual - Y_approximate) squared is minimized.
   (We are minimizing RMS error.)
 
+this program does the least square fit with 3, 4, ... , 17 degree polynomials. Computes the maximum error, the average error and RMS error for each fit. It prints out your data. Removes excess printout, and printa out the polynomial order for each degree 3..17 and print out maximum, average and RMS error for each.
